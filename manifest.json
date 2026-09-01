@@ -7,8 +7,50 @@
     "silver": "#D2DCE8",
     "chrome": "#F4F8FC"
   },
-  "buttons": ["silver", "royal", "crown", "keep", "banner"],
-  "states": ["normal", "hover", "pressed", "disabled"],
-  "frames": ["shield", "keep", "crown", "banner", "prime"],
-  "panels": ["citadel", "throne", "hall"]
+  "buttons": [
+    "silver",
+    "royal",
+    "crown",
+    "keep",
+    "banner"
+  ],
+  "states": [
+    "normal",
+    "hover",
+    "pressed",
+    "disabled"
+  ],
+  "frames": [
+    "shield",
+    "keep",
+    "crown",
+    "banner",
+    "prime"
+  ],
+  "panels": [
+    "bronze",
+    "silver",
+    "gold",
+    "allstar",
+    "keep",
+    "flags",
+    "gem",
+    "throne"
+  ],
+  "fill_frames": [
+    "bronze",
+    "silver",
+    "gold",
+    "allstar",
+    "keep",
+    "flags",
+    "gem",
+    "throne"
+  ],
+  "ranks": [
+    "bronze",
+    "silver",
+    "gold",
+    "allstar"
+  ]
 }

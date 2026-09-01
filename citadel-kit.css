@@ -1,5 +1,4 @@
-/* Citadel Prime Silver — MixMods / Oxide menu plates
-   Load next to your HUD. Frame PNGs live beside this file. */
+/* Citadel Prime Silver — MixMods / Oxide menu plates */
 
 .mm-frame {
   position: relative;
@@ -13,6 +12,14 @@
 .mm-frame--cit-crown { border-image-source: url("frames/crown.png"); }
 .mm-frame--cit-banner { border-image-source: url("frames/banner.png"); }
 .mm-frame--cit-prime { border-image-source: url("frames/prime.png"); }
+.mm-frame--cit-fill-bronze { border-image-source: url("frames/fill-bronze.png"); }
+.mm-frame--cit-fill-silver { border-image-source: url("frames/fill-silver.png"); }
+.mm-frame--cit-fill-gold { border-image-source: url("frames/fill-gold.png"); }
+.mm-frame--cit-fill-allstar { border-image-source: url("frames/fill-allstar.png"); }
+.mm-frame--cit-fill-keep { border-image-source: url("frames/fill-keep.png"); }
+.mm-frame--cit-fill-flags { border-image-source: url("frames/fill-flags.png"); }
+.mm-frame--cit-fill-gem { border-image-source: url("frames/fill-gem.png"); }
+.mm-frame--cit-fill-throne { border-image-source: url("frames/fill-throne.png"); }
 
 .mm-panel {
   position: relative;
@@ -22,6 +29,13 @@
   padding: 11% 10% 13%;
   min-height: 220px;
 }
-.mm-panel--citadel { background-image: url("panels/citadel.png"); }
+.mm-panel--bronze { background-image: url("panels/bronze.png"); }
+.mm-panel--silver { background-image: url("panels/silver.png"); }
+.mm-panel--gold { background-image: url("panels/gold.png"); }
+.mm-panel--allstar { background-image: url("panels/allstar.png"); }
+.mm-panel--keep { background-image: url("panels/keep.png"); }
+.mm-panel--flags { background-image: url("panels/flags.png"); }
+.mm-panel--gem { background-image: url("panels/gem.png"); }
 .mm-panel--throne { background-image: url("panels/throne.png"); }
+.mm-panel--citadel { background-image: url("panels/citadel.png"); }
 .mm-panel--hall { background-image: url("panels/hall.png"); }
