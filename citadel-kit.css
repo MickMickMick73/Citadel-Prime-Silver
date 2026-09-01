@@ -1,0 +1,27 @@
+/* Citadel Prime Silver — MixMods / Oxide menu plates
+   Load next to your HUD. Frame PNGs live beside this file. */
+
+.mm-frame {
+  position: relative;
+  border: 48px solid transparent;
+  border-image-slice: 96 fill;
+  border-image-repeat: stretch;
+  background-color: transparent;
+}
+.mm-frame--cit-shield { border-image-source: url("frames/shield.png"); }
+.mm-frame--cit-keep { border-image-source: url("frames/keep.png"); }
+.mm-frame--cit-crown { border-image-source: url("frames/crown.png"); }
+.mm-frame--cit-banner { border-image-source: url("frames/banner.png"); }
+.mm-frame--cit-prime { border-image-source: url("frames/prime.png"); }
+
+.mm-panel {
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  padding: 11% 10% 13%;
+  min-height: 220px;
+}
+.mm-panel--citadel { background-image: url("panels/citadel.png"); }
+.mm-panel--throne { background-image: url("panels/throne.png"); }
+.mm-panel--hall { background-image: url("panels/hall.png"); }

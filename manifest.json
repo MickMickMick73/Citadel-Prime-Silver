@@ -1,0 +1,14 @@
+{
+  "name": "Citadel Prime Silver",
+  "palette": {
+    "navy": "#080C1C",
+    "royal": "#122A6E",
+    "glow": "#5A8CFF",
+    "silver": "#D2DCE8",
+    "chrome": "#F4F8FC"
+  },
+  "buttons": ["silver", "royal", "crown", "keep", "banner"],
+  "states": ["normal", "hover", "pressed", "disabled"],
+  "frames": ["shield", "keep", "crown", "banner", "prime"],
+  "panels": ["citadel", "throne", "hall"]
+}
