@@ -10,13 +10,14 @@ Royal-blue enamel and chrome plates for MixMods / Oxide menus.
 
 `.mm-frame--cit-shield|keep|crown|banner|prime`
 
-**Supporter halls** (filled, 1280×720) — rank lettering on the crest
+**Menu plates** (filled CUI windows, 1280×820)
 
-`.mm-panel--bronze` · `silver` · `gold` · `allstar`
+Same topology as the in-game standalone-mods menu — riveted rectangle, scene in the hole.
 
-**Wordless scenes** — same theme, no type
+Citadel: `menu-hall` `menu-gate` `menu-bronze` `menu-gold` `menu-allstar`  
+Citadel × Rust: `menu-rustkeep` `menu-dusk` `menu-armory`
 
-`.mm-panel--keep` · `flags` · `gem` · `throne`
+`.mm-panel.mm-panel--menu-hall` etc.
 
 **Filled 9-slice borders** (artwork in the fill)
 

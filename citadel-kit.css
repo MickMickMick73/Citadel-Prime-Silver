@@ -1,5 +1,5 @@
-/* Citadel Prime — crest windows */
-.mm-frame { position: relative; }
+/* Citadel Prime */
+.mm-frame,.mm-panel{position:relative}
 /* Citadel Prime — full crest windows (not 9-sliced; the rim is a heater-shield) */
 .mm-frame--cit-shield,
 .mm-frame--cit-keep,
@@ -43,6 +43,14 @@
 .mm-panel--keep { background-image: url("citadel/panels/keep.png"); }
 .mm-panel--flags { background-image: url("citadel/panels/flags.png"); }
 .mm-panel--gem { background-image: url("citadel/panels/gem.png"); }
+.mm-panel--menu-hall { background-image: url("citadel/panels/menu-hall.jpg"); }
+.mm-panel--menu-gate { background-image: url("citadel/panels/menu-gate.jpg"); }
+.mm-panel--menu-bronze { background-image: url("citadel/panels/menu-bronze.jpg"); }
+.mm-panel--menu-gold { background-image: url("citadel/panels/menu-gold.jpg"); }
+.mm-panel--menu-allstar { background-image: url("citadel/panels/menu-allstar.jpg"); }
+.mm-panel--menu-rustkeep { background-image: url("citadel/panels/menu-rustkeep.jpg"); }
+.mm-panel--menu-dusk { background-image: url("citadel/panels/menu-dusk.jpg"); }
+.mm-panel--menu-armory { background-image: url("citadel/panels/menu-armory.jpg"); }
 .mm-frame--cit-fill-bronze { background-image: url("citadel/frames/fill-bronze.png"); }
 .mm-frame--cit-fill-silver { background-image: url("citadel/frames/fill-silver.png"); }
 .mm-frame--cit-fill-gold { background-image: url("citadel/frames/fill-gold.png"); }
