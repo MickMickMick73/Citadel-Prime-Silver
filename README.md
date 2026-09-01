@@ -4,7 +4,11 @@ Royal-blue enamel and chrome plates for MixMods / Oxide menus.
 
 **Buttons** (720×240, 4 states, no letters)
 
-`silver` · `royal` · `crown` · `keep` · `banner`
+Original: `silver` · `royal` · `crown` · `keep` · `banner`
+
+Rank metals — plate / gem / crown / keep in each:
+
+`silver-*` · `gold-*` · `bronze-*`
 
 **Hollow frames** (720×720, 9-slice)
 
