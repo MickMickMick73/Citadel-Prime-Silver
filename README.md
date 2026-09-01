@@ -10,7 +10,7 @@ Royal-blue enamel and chrome plates for MixMods / Oxide menus.
 
 `.mm-frame--cit-shield|keep|crown|banner|prime`
 
-**Menu plates** (filled CUI windows, 1280×820)
+**Menu plates** (filled CUI windows, 1280×820 PNG RGBA)
 
 Same topology as the in-game standalone-mods menu — riveted rectangle, scene in the hole.
 
